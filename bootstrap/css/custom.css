@@ -1,0 +1,26 @@
+body{
+	/*background-image: url('../../img/back.png');*/
+	background-size: 100%;
+	color: white;
+}
+.blacked{
+	background-color: rgba(0,0,0,0.7);
+	border-radius: 5px;
+}
+.tendered{
+	/*background-color: rgba(0,0,0,0.3);*/
+	height: 75px;
+}
+a{
+	color: white
+}
+li:hover{
+	background-color: black;
+}
+a:hover{
+	
+	color:white;
+}
+a:visited{
+	color:white;
+}
