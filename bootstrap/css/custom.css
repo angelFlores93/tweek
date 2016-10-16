@@ -1,26 +1,38 @@
-body{
-	/*background-image: url('../../img/back.png');*/
+body.pic{
+	background-image: url('../../img/bg.png');
 	background-size: 100%;
-	color: white;
+	/*color: white;*/
 }
 .blacked{
 	background-color: rgba(0,0,0,0.7);
+	border-radius: 5px;
+}
+.green{
+	background-color: rgba(102,255,102,0.7);
+	border-radius: 5px;
+
+}
+.red{
+	background-color: rgba(255,77,77,0.7);
 	border-radius: 5px;
 }
 .tendered{
 	/*background-color: rgba(0,0,0,0.3);*/
 	height: 75px;
 }
+.white{
+	color:white;
+}
 a{
-	color: white
+	color: white;	
 }
 li:hover{
 	background-color: black;
 }
 a:hover{
 	
-	color:white;
+	color:black;
 }
 a:visited{
-	color:white;
+	color:black;
 }
